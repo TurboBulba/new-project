@@ -1,2 +1,2 @@
-print("hello epta")
-#какой-то текст
+print("Hello Pythondg...")
+print("Вторая строчка")
